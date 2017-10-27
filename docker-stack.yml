@@ -2,9 +2,9 @@ version: "3"
 services:
 
   php-hello-world:
-    image: lmeadows/php-hello-world
+    image: lmeadows/php-hello-world:demo
     ports:
-      - "4000"
+      - 5000:80
     deploy:
       replicas: 2
       update_config:
