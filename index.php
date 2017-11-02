@@ -6,7 +6,7 @@ echo <<<CONTENT
 <style type="text/css">
 body {
   #background-color:#89cff0;
-  background-color:green;
+  background-color:red;
 }
 p {
   font-weight:bold;
