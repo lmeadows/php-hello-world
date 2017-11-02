@@ -5,7 +5,7 @@ echo <<<CONTENT
 <head>
 <style type="text/css">
 body {
-  background-color:pink;
+  background-color:red;
 }
 p {
   font-weight:bold;
